@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Sonara</h1>
 <h3 align="center">A MERN stack enthusiast with a keen interest in decentralized technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsonara&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsonara" /> </p>
-
 - 🔭 I’m currently working on [Netflix with Admin and ML include](https://github.com/KuldeepSonara/netflix_with_Ml_clone)
 
 - 🌱 Currently immersing myself in **MERN Stack Development while exploring opportunities to integrate blockchain technology for enhanced solutions.**
