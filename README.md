@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepsonara&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepsonara" /> </p>
 
+- 🌐 Check out my Portfolio at [https://kuldeep-sonara.netlify.app/](https://kuldeep-sonara.netlify.app/)
+
 - 🔭 I’m currently working on [Netflix with Admin and ML include](https://github.com/KuldeepSonara/netflix_with_Ml_clone)
 
 - 🌱 Currently immersing myself in **MERN Stack Development while exploring opportunities to integrate blockchain technology for enhanced solutions.**
@@ -14,8 +16,6 @@
 - 📫 How to reach me **kuldeepsonara6@gmail.com**
 
 - 📄 Know about my experiences [https://tomato-jeana-71.tiiny.site/](https://tomato-jeana-71.tiiny.site/)
-
-- 🌐 Check out my Portfolio at [https://kuldeep-sonara.netlify.app/](https://kuldeep-sonara.netlify.app/)
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kuldeep-sonara/)
 
